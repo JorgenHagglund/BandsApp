@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Bands</title>
+    </head>
+    <body>
+        <h2>Bands</h2>
+    <ul>
+        @foreach (var band in Model)
+        {
+            <li>
+                <a href="@Url.Action("Details", "Bands", new { id = band.Id })">@band.Name</a>
+            </li>
+        }
+    </ul>
+    </body>
+    </html>
