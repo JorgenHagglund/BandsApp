@@ -1,0 +1,14 @@
+﻿@model BandsApp.Web.Models.Band
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/@@picocss/pico@@latest/css/pico.classless.min.css">
+    <title>Details</title>
+</head>
+<body>
+    <h2>Details @Model.Name</h2>
+    <p>@Model.Description</p>
+	<img src="@Model.Image" alt="Band Image" />
+	<iframe width="560" height="315" src="@Model.VideoUrl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
