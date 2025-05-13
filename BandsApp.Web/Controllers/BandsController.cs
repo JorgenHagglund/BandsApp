@@ -25,9 +25,6 @@ public class BandsController : Controller
             return NotFound();
         }
 
-        // Fix for CS0118 and CS0119:
-        // Ensure the type name is correctly capitalized and matches the expected type.
-        // Also, ensure the method `File.ReadAllText` is used correctly.
         var albums = JsonSerializer.Deserialize<Dictionary<string, List<Album>>>(System.IO.File.ReadAllText("albums.json"));
 
         if (albums != null)
