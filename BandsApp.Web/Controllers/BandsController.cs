@@ -30,7 +30,16 @@ public class BandsController : Controller
         // Also, ensure the method `File.ReadAllText` is used correctly.
         var albums = JsonSerializer.Deserialize<Dictionary<string, List<Album>>>(System.IO.File.ReadAllText("albums.json"));
 
-        band.Albums = albums![band.Name].ToArray();
+        if (albums != null)
+        {
+            band.Albums = albums
+            .SingleOrDefault(a => a.Key == band.Name)
+            .Value
+            .ToList()
+            .OrderBy(a => a.Year)
+            .ToArray() ?? [];
+        }
+
         return View(band);
     }
 }
