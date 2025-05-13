@@ -1,0 +1,174 @@
+{
+  "Iron Maiden": [
+    {
+      "Name": "Iron Maiden",
+      "Year": 1980
+    },
+    {
+      "Name": "Killers",
+      "Year": 1981
+    },
+    {
+      "Name": "The Number of the Beast",
+      "Year": 1982
+    },
+    {
+      "Name": "Piece of Mind",
+      "Year": 1983
+    },
+    {
+      "Name": "Powerslave",
+      "Year": 1984
+    },
+    {
+      "Name": "Somewhere in Time",
+      "Year": 1986
+    },
+    {
+      "Name": "Seventh Son of a Seventh Son",
+      "Year": 1988
+    },
+    {
+      "Name": "No Prayer for the Dying",
+      "Year": 1990
+    },
+    {
+      "Name": "Fear of the Dark",
+      "Year": 1992
+    },
+    {
+      "Name": "The X Factor",
+      "Year": 1995
+    },
+    {
+      "Name": "Virtual XI",
+      "Year": 1998
+    },
+    {
+      "Name": "Brave New World",
+      "Year": 2000
+    },
+    {
+      "Name": "Dance of Death",
+      "Year": 2003
+    },
+    {
+      "Name": "A Matter of Life and Death",
+      "Year": 2006
+    },
+    {
+      "Name": "The Final Frontier",
+      "Year": 2010
+    }
+  ],
+
+  "Jorn": [
+    {
+      "Name": "Starfire",
+      "Year": 2000
+    },
+    {
+      "Name": "Worldchanger",
+      "Year": 2001
+    },
+    {
+      "Name": "Out to every nation",
+      "Year": 2004
+    },
+    {
+      "Name": "The duke",
+      "Year": 2006
+    },
+    {
+      "Name": "Live in America",
+      "Year": 2007
+    },
+    {
+      "Name": "Lonely are the brave",
+      "Year": 2008
+    },
+    {
+      "Name": "Spirit black",
+      "Year": 2009
+    },
+    {
+      "Name": "Dio",
+      "Year": 2010
+    },
+    {
+      "Name": "Live in black",
+      "Year": 2011
+    },
+    {
+      "Name": "Bring heavy rock to the land",
+      "Year": 2012
+    },
+    {
+      "Name": "Symphonic",
+      "Year": 2013
+    },
+    {
+      "Name": "Traveller",
+      "Year": 2013
+    },
+    {
+      "Name": "Heavy rock radio",
+      "Year": 2016
+    },
+    {
+      "Name": "Life on death road",
+      "Year": 2017
+    },
+    {
+      "Name": "50 years on earth (Anniversary box set)",
+      "Year": 2018
+    },
+    {
+      "Name": "Live on death road",
+      "Year": 2019
+    },
+    {
+      "Name": "Heavy rock radio II: Executing the classics",
+      "Year": 2020
+    },
+    {
+      "Name": "Over the horizon radar",
+      "Year": 2022
+    }
+  ],
+
+  "Amazarashi": [
+    {
+      "Name": "Sennen Koufukuron",
+      "Year": 2011
+    },
+    {
+      "Name": "Yuuhi Shinkou Higashizumu",
+      "Year": 2014
+    },
+    {
+      "Name": "Sekai Shuusoku Ni Ichi Ichi Roku",
+      "Year": 2016
+    },
+    {
+      "Name": "Toshi no Memento Mori",
+      "Year": 2017
+    },
+    {
+      "Name": "Boycott",
+      "Year": 2020
+    },
+    {
+      "Name": "Nanagou-sen Lost Boys",
+      "Year": 2022
+    },
+    {
+      "Name": "Eienshi",
+      "Year": 2023
+    },
+    {
+      "Name": "Ghost",
+      "Year": 2025
+    }
+  ]
+}

@@ -61,6 +61,15 @@
 					</iframe>
 				</div>
 			</div>
+			<h2>Albums</h2>
+            <ul>
+                @foreach (var album in Model.Albums)
+                {
+                    <li>
+                        @album.Name (@album.Year)
+                    </li>
+                }
+			</ul>
 		</div>
 	</div>
 
