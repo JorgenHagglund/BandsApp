@@ -1,0 +1,64 @@
+{
+  "Iron Maiden": [
+    {
+      "Name": "Iron Maiden",
+      "Year": 1980
+    },
+    {
+      "Name": "Killers",
+      "Year": 1981
+    },
+    {
+      "Name": "The Number of the Beast",
+      "Year": 1982
+    },
+    {
+      "Name": "Piece of Mind",
+      "Year": 1983
+    },
+    {
+      "Name": "Powerslave",
+      "Year": 1984
+    },
+    {
+      "Name": "Somewhere in Time",
+      "Year": 1986
+    },
+    {
+      "Name": "Seventh Son of a Seventh Son",
+      "Year": 1988
+    },
+    {
+      "Name": "No Prayer for the Dying",
+      "Year": 1990
+    },
+    {
+      "Name": "Fear of the Dark",
+      "Year": 1992
+    },
+    {
+      "Name": "The X Factor",
+      "Year": 1995
+    },
+    {
+      "Name": "Virtual XI",
+      "Year": 1998
+    },
+    {
+      "Name": "Brave New World",
+      "Year": 2000
+    },
+    {
+      "Name": "Dance of Death",
+      "Year": 2003
+    },
+    {
+      "Name": "A Matter of Life and Death",
+      "Year": 2006
+    },
+    {
+      "Name": "The Final Frontier",
+      "Year": 2010
+    }
+  ]
+}
